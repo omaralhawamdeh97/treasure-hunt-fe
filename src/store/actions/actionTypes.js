@@ -1,0 +1,5 @@
+// ACTION TYPES
+export const FETCH_TREASURES = "FETCH_TREASURES";
+export const FETCH_GARBAGE = "FETCH_GARBAGE";
+
+export const SET_USER = "SET_USER";
